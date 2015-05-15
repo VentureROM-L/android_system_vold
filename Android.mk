@@ -1,6 +1,6 @@
 LOCAL_PATH:= $(call my-dir)
 
-common_cflags := -Werror -Wno-unused-parameter
+common_cflags := -Wno-unused-parameter
 
 common_src_files := \
 	VolumeManager.cpp \
